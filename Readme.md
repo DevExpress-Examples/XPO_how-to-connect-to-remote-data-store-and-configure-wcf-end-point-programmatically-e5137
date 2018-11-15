@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Customer.cs](./CS/E5137/Customer.cs) (VB: [Customer.vb](./VB/E5137/Customer.vb))
+* [EndPointHelper.cs](./CS/E5137/EndPointHelper.cs) (VB: [EndPointHelper.vb](./VB/E5137/EndPointHelper.vb))
+* [Program.cs](./CS/E5137/Program.cs) (VB: [Program.vb](./VB/E5137/Program.vb))
+* [Service1.svc.cs](./CS/WcfService1/Service1.svc.cs) (VB: [Service1.svc.vb](./VB/WcfService1/Service1.svc.vb))
+<!-- default file list end -->
 # How to connect to remote data store and configure WCF end point programmatically
 
 
